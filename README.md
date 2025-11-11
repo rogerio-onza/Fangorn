@@ -1,4 +1,4 @@
-# Fangorn
+# Fangorn: pacote em R para apoio à modelagem de distribuição de espécies (SDMs)
 
 📃 Description
 
