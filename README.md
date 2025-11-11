@@ -1,6 +1,10 @@
 # Fangorn: pacote em R para apoio à modelagem de distribuição de espécies (SDMs)
 
-📃 Description
+## 🚩 **Observation**
+This package is currently **inactive** (or **dormant**) and needs **updates** to fix and **optimize** the wrapper functions implemented below.
+
+
+## 📃 Description
 
 Fangorn simplifies key steps in SDMtune model analyses by automating AUC, TSS, prediction and seamlessly integrates with the enmSdmX package to calculate the CBI (Boyce Index).
 
@@ -121,6 +125,19 @@ Boyce Index (CBI) for lqph_3.1_7.5 : 0.999988351776354
 ## 👾 Issues and Bugs
 
 If you find any issues or bugs, please open an issue on the Issues page.
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## 👤 Autor
+
+Rogério Nunes Oliveira
+
+Pacote desenvolvido como parte de bolsa de pesquisa de doutorado
+
+Data de criação: 2023
+
 
 ## References
 
