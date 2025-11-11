@@ -1,7 +1,7 @@
 # Fangorn: R package for supporting Species Distribution Models (SDMs)
 
 ## 🚩 **Observation**
-This package is currently **inactive** (or **dormant**) and needs **updates** to fix and **optimize** the wrapper functions implemented below.
+This package is currently **inactive** and needs **updates** to fix and **optimize** the wrapper functions implemented below.
 
 
 ## 📃 Description
