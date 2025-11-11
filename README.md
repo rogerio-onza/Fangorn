@@ -1,4 +1,4 @@
-# Fangorn: pacote em R para apoio à modelagem de distribuição de espécies (SDMs)
+# Fangorn: R package for supporting Species Distribution Models (SDMs)
 
 ## 🚩 **Observation**
 This package is currently **inactive** (or **dormant**) and needs **updates** to fix and **optimize** the wrapper functions implemented below.
@@ -130,13 +130,13 @@ If you find any issues or bugs, please open an issue on the Issues page.
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## 👤 Autor
+## 👤 Author
 
 Rogério Nunes Oliveira
 
-Pacote desenvolvido como parte de bolsa de pesquisa de doutorado
+Package developed as part of a doctoral research.
 
-Data de criação: 2023
+Creation Date: 2023
 
 
 ## References
