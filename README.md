@@ -20,16 +20,22 @@ You can install the package from GitHub using the following command:
 
 remotes::install_github('rogerio-bio/Fangorn', dependencies=TRUE)
 
-💻 Usage
-Onering
+## 💻 Usage
+
 
 library (terra)
+
 library (SDMtune)
+
 library (enmSdmX)
+
 library (dismo)
+
 library (Fangorn)
 
 ## Call the function
+
+Onering
 
 ```r
 Onering(model, "model_name", test, variables, p, bg, "maxSSS")
